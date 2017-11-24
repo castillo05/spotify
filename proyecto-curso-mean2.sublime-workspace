@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"express"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"admin",
+				"administrar.php"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"input",
+				"inputs\tinput - submit"
+			],
+			[
+				"categ",
+				"categorias"
+			],
+			[
+				"in",
+				"inputs\tinput - submit"
+			],
+			[
+				"form",
+				"form\t<form>"
+			],
+			[
+				"cate",
+				"$categoria〔variable〕"
+			],
+			[
+				"che",
+				"checkInput〔function〕"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"sta",
+				"$statement〔variable〕"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"ite",
+				"$item〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 647,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 412,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 394,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/curso_mean_stack"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso_mean_stack/package.json",
+		"/C/cygwin64/home/Recaudacion-C/.bash_profile",
+		"/C/xampp/htdocs/invoice/base de datos-modificada11-05-17.sql",
+		"/C/xampp/htdocs/invoice/js/nueva_factura.js",
+		"/C/xampp/htdocs/invoice/ajax/agregar_facturacion.php",
+		"/C/xampp/htdocs/invoice/js/facturas_credito.js",
+		"/C/xampp/htdocs/invoice/js/facturas.js",
+		"/C/xampp/htdocs/invoice/js/productos.js",
+		"/C/xampp/htdocs/invoice/ajax/buscar_productos.php",
+		"/C/xampp/htdocs/invoice/ajax/productos_factura.php",
+		"/C/xampp/htdocs/invoice/ajax/agregar_cotizacion.php",
+		"/C/xampp/htdocs/invoice/ajax/nuevo_producto.php",
+		"/C/xampp/htdocs/invoice/config/conexion.php",
+		"/C/xampp/htdocs/invoice/config/db.php",
+		"/G/xampp/htdocs/invoice/ajax/buscar_productos.php",
+		"/G/xampp/htdocs/invoice/nuevo_producto.php",
+		"/D/mi web/10-05-17/invoice/ajax/buscar_productos.php",
+		"/C/xampp/htdocs/mongodb/index.php",
+		"/C/xampp/htdocs/curso-angular4/index.php",
+		"/C/xampp/htdocs/curso-angular4/package.json",
+		"/C/xampp/htdocs/elsaucenicaragua/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/vendor/freelancer.css",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/insert.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/database.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/view.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/administrar.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/head.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/login.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/header.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/delete.php",
+		"/D/invoice31-12-2016/index.php",
+		"/D/invoice31-12-2016/navbar2.php",
+		"/D/invoice31-12-2016/panel_de_control.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/index.php-tmp",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/buscar_cat.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/js/categorias.js",
+		"/C/xampp/htdocs/elsaucenicaragua/header.php",
+		"/H/mi web/10-05-17/invoice/nueva_factura.php",
+		"/H/mi web/10-05-17/invoice/nuevo_producto.php",
+		"/C/Users/Recaudacion-C/Downloads/nuevo_producto.php",
+		"/C/xampp/htdocs/burger/admin/update.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/update.php",
+		"/C/Users/Recaudacion-C/Downloads/bootstrap-datetimepicker-master/bootstrap-datetimepicker-master/sample in bootstrap v3/index.html",
+		"/C/xampp/htdocs/burger/admin/index.php",
+		"/C/xampp/htdocs/burger/admin/database.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/index.php-tmp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 119.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
